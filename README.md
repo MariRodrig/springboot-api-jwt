@@ -1,8 +1,8 @@
 # Spring Boot API JWT
 
-Projeto de estudo utilizando Spring Boot, Spring Security, JWT Authentication e PostgreSQL.
+Study project developed with Spring Boot, Spring Security, JWT Authentication and PostgreSQL.
 
-## Tecnologias
+## Technologies
 - Java 17
 - Spring Boot
 - Spring Security
@@ -10,12 +10,19 @@ Projeto de estudo utilizando Spring Boot, Spring Security, JWT Authentication e 
 - PostgreSQL
 - Maven
 
-## Estrutura do Projeto
+## Project Structure
 - Controller
 - Service
 - Repository
 - Security
 - Exception Handler
 
-## Objetivo
-Projeto desenvolvido para prática de API REST utilizando autenticação JWT e arquitetura em camadas.
+## Features
+- REST API structure
+- JWT authentication
+- Spring Security configuration
+- PostgreSQL database connection
+- Layered architecture
+
+## Goal
+Practice backend development with Java and Spring Boot, focusing on REST APIs, authentication and clean project organization.
